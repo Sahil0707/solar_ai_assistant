@@ -36,7 +36,7 @@ Conversations are logged in conversation_logs.txt.
 
 ## 📄 File Structure
    ```sh
-      solar-ai-assistant/
+   solar-ai-assistant/
    │-- .venv/                     # Virtual environment (not included in Git)
    │-- .env                        # API keys (DO NOT SHARE THIS!)
    │-- app.py                      # Main Streamlit app
