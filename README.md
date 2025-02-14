@@ -28,3 +28,20 @@ A chatbot assistant for the solar industry that uses OpenRouter AI API to genera
 5. Run the application
    ```sh
    streamlit run app.py
+
+## 🚀 Usage
+Enter your prompt in the Streamlit UI.
+The AI will generate a response using OpenRouter API.
+Conversations are logged in conversation_logs.txt.
+
+## 📄 File Structure
+   ```sh
+      solar-ai-assistant/
+   │-- .venv/                     # Virtual environment (not included in Git)
+   │-- .env                        # API keys (DO NOT SHARE THIS!)
+   │-- app.py                      # Main Streamlit app
+   │-- config.py                   # Configuration settings
+   │-- utils.py                    # Helper functions (API calls, logging)
+   │-- requirements.txt             # Dependencies
+   │-- conversation_logs.txt        # Conversation logs
+   │-- README.md                    # Project documentation
