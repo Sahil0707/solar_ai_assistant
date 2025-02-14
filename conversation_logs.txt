@@ -1,0 +1,21 @@
+User: what is solar ai
+AI: Solar AI Technologies is a company that leverages machine learning and artificial intelligence to map out and digitize every solar panel across urban environments. They provide insights for solar development and deployment. Their aim is to enable everyone to transition to renewable energy seamlessly. Please note that the term 'solar AI' is not a generic term, but a company or service name.
+--------------------------------------------------
+User: how do solar panel works
+AI: Solar panels work by converting light from the sun into usable electricity. Here's a more detailed step by step process:
+
+1. Capture of Sunlight: Solar panels consist of small cells made from semiconductive materials, typically silicon - the same stuff found in microelectronics. These cells are spread over a large area to collect sunlight. 
+
+2. Generation of Electricity: When sunlight hits the cells, it knocks electrons loose from their atoms. If conductors are attached to the positive and negative sides of a cell, it forms an electrical circuit. 
+
+3. Direct Current (DC) to Alternating Current (AC): When the electrons flow through such a circuit, they generate electricity. This current is known as 'direct current' (DC) and it is not the format of electricity that powers most homes, which is 'alternating current' (AC). Therefore...
+
+4. Inversion: The DC electricity is passed through an inverter to convert it into AC electricity, suitable for use in your home
+--------------------------------------------------
+User: what is the cost of solar panel
+AI: The cost of solar panels can significantly vary depending on the size, type, quality, and the brand. However, as of 2021, the average cost of solar panels installation in the U.S typically ranges from $15,000 to $25,000 after tax credits. 
+
+A single solar panel costs on average $200-$300. 
+
+Please note that prices vary by the region, and greatly depend on other factors like installation costs, the availability of solar incentives in your area, and the type of equipment you choose. Therefore, it's better to request a quote from a local installer for the most accurate pricing.
+--------------------------------------------------
